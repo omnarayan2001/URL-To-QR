@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A qr code will be generated for a text inputed by the user.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Narayan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "qr-image": "^3.2.0"
+  }
+}
